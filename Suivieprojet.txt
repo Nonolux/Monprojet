@@ -1,4 +1,4 @@
 Première exécution échouer, il faut changer les droits.
 chmod 755 maison.sh
 Recherche de la fonction scale et bc
-
+Je n'ais pas vraiment trouver pour passer de la virgule au Point
